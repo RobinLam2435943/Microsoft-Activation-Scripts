@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/images/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
@@ -33,17 +33,17 @@
 -   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
 
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
+To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches)
 
 </br>
 
 ```
-Latest Version: 2.5
-Release date: 16-Nov-2023
+Latest Version: 2.6
+Release date: 20-Apr-2024
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot.html)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media.html)
+### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
+### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
 ### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
 
 ---
